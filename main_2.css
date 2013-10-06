@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+h1 {color: red;}
+
+header { border-bottom: solid 10px black;
+          padding-bottom: 10px; }
+
+article { border-bottom: 10px solid gray; }
+
+img { float: left; margin-right: 30px;
+          padding-bottom: 30px; }
+
+.fix { clear: both;}
